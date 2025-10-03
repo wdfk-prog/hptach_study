@@ -1,3 +1,13 @@
+---
+title: trsort
+date: 2025-10-03 09:12:19
+categories:
+  - hpatch
+  - libdivsufsort
+tags:
+  - hpatch
+  - libdivsufsort
+---
 [TOC]
 
 ## trsort **Tandem Repeat Sort (串联重复排序)**

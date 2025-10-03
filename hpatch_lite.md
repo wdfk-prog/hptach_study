@@ -1,3 +1,11 @@
+---
+title: hpatch_lite
+date: 2025-10-03 09:12:19
+categories:
+  - hpatch
+tags:
+  - hpatch
+---
 [TOC]
 
 # 学习笔记

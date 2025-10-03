@@ -1,3 +1,11 @@
+---
+title: SuffixString
+date: 2025-10-03 09:12:19
+categories:
+  - hpatch
+tags:
+  - hpatch
+---
 [TOC]
 
 # HDiffPatch\libHDiffPatch\HDiff\private_diff\suffix_string.cpp
