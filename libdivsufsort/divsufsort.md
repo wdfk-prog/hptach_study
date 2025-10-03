@@ -1,3 +1,13 @@
+---
+title: DivSufSort
+date: 2025-10-03 09:12:19
+categories:
+  - hpatch
+  - libdivsufsort
+tags:
+  - hpatch
+  - libdivsufsort
+---
 [TOC]
 
 ### **DivSufSort中的后缀类型：A, B, 和 B\* 详解**
