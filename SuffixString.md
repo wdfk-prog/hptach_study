@@ -1,10 +1,11 @@
 ---
 title: SuffixString
-date: 2025-10-03 09:12:19
 categories:
   - hpatch
 tags:
   - hpatch
+abbrlink: 74360fdb
+date: 2025-10-03 09:12:19
 ---
 [TOC]
 

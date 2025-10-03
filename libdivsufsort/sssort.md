@@ -1,12 +1,13 @@
 ---
 title: sssort
-date: 2025-10-03 09:12:19
 categories:
   - hpatch
   - libdivsufsort
 tags:
   - hpatch
   - libdivsufsort
+abbrlink: f26669ed
+date: 2025-10-03 09:12:19
 ---
 
 [toc]

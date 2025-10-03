@@ -1,10 +1,11 @@
 ---
 title: hpatch_lite
-date: 2025-10-03 09:12:19
 categories:
   - hpatch
 tags:
   - hpatch
+abbrlink: b01c5be0
+date: 2025-10-03 09:12:19
 ---
 [TOC]
 

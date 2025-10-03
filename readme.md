@@ -1,11 +1,12 @@
 ---
 title: hptach差分算法--学习笔记
-date: 2025-10-03 11:33:53
-top: 95 # 数字越大越靠前！
+top: 95
 categories:
   - hpatch
 tags:
   - hpatch
+abbrlink: 80aebecf
+date: 2025-10-03 11:33:53
 ---
 # hptach差分算法--学习笔记
 
