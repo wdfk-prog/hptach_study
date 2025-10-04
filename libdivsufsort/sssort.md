@@ -1346,8 +1346,6 @@ ss_rotate(sastore_t*first, sastore_t*middle, sastore_t*last) {
 }
 ```
 
-好的，我们来分析 `divsufsort` 中这个用于快速计算整数平方根的函数 `ss_isqrt`。
-
 ## ss_isqrt **快速整数平方根**
 
 `ss_isqrt` (Integer Square Root) 是一个高度优化的辅助函数，它的唯一目标是**快速地计算一个整数的平方根并向下取整**（即 `floor(sqrt(x))`）。这个函数在 `sssort` 中被调用，用于决定在无法使用外部缓冲区时，应该采用多大的 `limit` 来进行原地归并。
