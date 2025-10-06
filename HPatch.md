@@ -10,8 +10,6 @@ date: 2025-10-04 18:57:17
 [TOC]
 
 # HDiffPatch\libHDiffPatch\HPatch\patch.c
-好的，我们来重点分析 HDiffPatch 中实现**可变长度整数编码 (Variable-length Integer Encoding)** 的核心函数。这是 `pack_uint.h` 和 `patch.c` 中最关键的底层数据压缩技术。
-
 ## packUInt & hpatch_packUIntWithTag **可变长度整数编码**
 
 这组函数实现了一种高效的、类似于 **LEB128 (Little-Endian Base 128)** 或 **VLQ (Variable-length quantity)** 的整数编码方案。其核心目标是：**用更少的字节来表示小数值，用更多的字节来表示大数值**，从而在数据流中实现对数值本身的压缩。

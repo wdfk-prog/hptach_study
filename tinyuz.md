@@ -340,9 +340,6 @@ void compress_clip(TTuzCode& coder,const hpatch_TStreamInput* data,hpatch_Stream
 ```
 
 # tinyuz\decompress\tuz_dec.c
-好的，遵照您的要求，我将按照您提供的风格和格式对 `tuz_TStream_read_dict_size` 函数进行详细的解释。
-
-***
 
 ## tuz_TStream_read_dict_size **Tuz 文件头解析：读取字典大小**
 ### **原理与设计思路解析**
