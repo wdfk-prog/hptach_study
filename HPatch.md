@@ -7,7 +7,11 @@ tags:
 abbrlink: b701678d
 date: 2025-10-04 18:57:17
 ---
+<meta name="referrer" content="no-referrer" />
+
 [TOC]
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/72a0f919146843cba861601b64feb07c.png)
 
 # HDiffPatch\libHDiffPatch\HPatch\patch.c
 ## packUInt & hpatch_packUIntWithTag **可变长度整数编码**
