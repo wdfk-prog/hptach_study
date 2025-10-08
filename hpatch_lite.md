@@ -7,8 +7,10 @@ tags:
 abbrlink: b01c5be0
 date: 2025-10-03 09:12:19
 ---
-[TOC]
+<meta name="referrer" content="no-referrer" />
 
+[TOC]
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/80c58bf478be4789b8b4e5e7876d150c.png)
 # 学习笔记
 
 # HPatchLite\HDiffPatch\libHDiffPatch\HPatchLite\hpatch_lite.c

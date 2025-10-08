@@ -7,6 +7,10 @@ tags:
 abbrlink: 873586f3
 date: 2025-10-04 22:23:04
 ---
+<meta name="referrer" content="no-referrer" />
+
+[toc]
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/93f1630e8e904bf59a2eae5fe7931de9.png)
 # hpatch 学习笔记
 
 - 1. [libdivsufsort](libdivsufsort/)

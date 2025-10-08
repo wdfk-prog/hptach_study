@@ -7,8 +7,11 @@ tags:
 abbrlink: 74360fdb
 date: 2025-10-03 09:12:19
 ---
-[TOC]
+<meta name="referrer" content="no-referrer" />
 
+
+[TOC]
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/dae19a3849f744e4a69a585819dafefd.png)
 # HDiffPatch\libHDiffPatch\HDiff\private_diff\suffix_string.cpp
 
 ## **后缀数组**

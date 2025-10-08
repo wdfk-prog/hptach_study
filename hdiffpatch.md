@@ -7,8 +7,10 @@ tags:
 abbrlink: fd53b379
 date: 2025-10-03 09:12:19
 ---
-[TOC]
+<meta name="referrer" content="no-referrer" />
 
+[TOC]
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/72a0f919146843cba861601b64feb07c.png)
 # hdiffi.cpp
 ## hdiffi & hdiffi_in_mem **内存模式下的补丁生成**
 
