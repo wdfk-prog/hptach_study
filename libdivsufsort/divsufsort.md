@@ -9,6 +9,8 @@ tags:
 abbrlink: 61d60ff1
 date: 2025-10-03 09:12:19
 ---
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c8c82feae7364292a32d89af590c5cc6.png)
+
 [TOC]
 
 ### **DivSufSort中的后缀类型：A, B, 和 B\* 详解**
