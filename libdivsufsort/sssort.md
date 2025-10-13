@@ -9,8 +9,12 @@ tags:
 abbrlink: f26669ed
 date: 2025-10-03 09:12:19
 ---
+<meta name="referrer" content="no-referrer" />
 
 [toc]
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/37e9da63ed3e46919e1647b86ad8895e.png)
+
 ## sssort **递归核心：优化的子串排序算法**
 
 这是 `divsufsort` 算法的**递归心脏**，也是执行实际比较和排序工作的函数。当 `sort_typeBstar` 将 B\* 后缀按照前两个字符分入不同的“桶”后，`sssort` (Substring Sort) 就被调用来对**每一个桶内部**的后缀进行完全、正确的排序。

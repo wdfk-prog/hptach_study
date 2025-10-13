@@ -9,6 +9,8 @@ tags:
 abbrlink: d20370e5
 date: 2025-10-03 09:12:19
 ---
+<meta name="referrer" content="no-referrer" />
+
 [TOC]
 
 ## trsort **Tandem Repeat Sort (串联重复排序)**

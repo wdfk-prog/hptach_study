@@ -9,9 +9,11 @@ tags:
 abbrlink: 61d60ff1
 date: 2025-10-03 09:12:19
 ---
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c8c82feae7364292a32d89af590c5cc6.png)
+<meta name="referrer" content="no-referrer" />
 
 [TOC]
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c8c82feae7364292a32d89af590c5cc6.png)
 
 ### **DivSufSort中的后缀类型：A, B, 和 B\* 详解**
 - 简单来说，这是一种对所有后缀进行**分类**的巧妙方法，其最终目的是**找出并只排序一个规模小得多的“代表性”后缀子集**，然后再利用这个排好序的子集，通过廉价的线性扫描来“诱导”出所有其他后缀的正确顺序。
