@@ -13,6 +13,8 @@ date: 2025-10-03 09:12:19
 
 [TOC]
 
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/fb95e2e923c445e6a3e6eb82b5c36248.png)
+
 ## trsort **Tandem Repeat Sort (串联重复排序)**
 
 `trsort` 是 `divsufsort` 中一个专门用于对**整数数组**进行排序的、高度优化的算法。在 `sort_typeBstar` 的流程中，当计算出所有 B\* 后缀的**排名 (rank)** 并将它们存入 `ISA` 数组后，`trsort` 就被调用来对这个**排名数组**进行最终的排序。
