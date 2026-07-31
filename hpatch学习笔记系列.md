@@ -1,4 +1,13 @@
-﻿# hpatch学习笔记系列
+---
+title: hpatch学习笔记系列
+categories:
+  - hpatch
+tags:
+  - hpatch
+abbrlink: b75715e9
+date: 2026-07-31 15:11:36
+---
+# hpatch学习笔记系列
 
 - 1. [libdivsufsort](<./libdivsufsort/>)
   - [1.1. DivSufSort](<./libdivsufsort/divsufsort.md>) ([个人博客链接](https://wdfk-prog.space/posts/61d60ff1/))
